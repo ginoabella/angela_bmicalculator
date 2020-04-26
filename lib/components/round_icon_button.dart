@@ -6,7 +6,7 @@ class RoundIconButton extends StatelessWidget {
 
   RoundIconButton({
     @required this.icon,
-    this.onPress,
+    @required this.onPress,
   });
 
   @override
